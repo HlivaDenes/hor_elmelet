@@ -62,11 +62,7 @@
 
 1. Rendszerösszetevők és alkalmazások telepítéséhez csomagkezelő rendszert használ
 
-1. Gondoskodik a különböző szerepkörök, tulajdonságok és szolgáltatások telepítéséről, kezeléséről, beállítja a szolgáltatások indításának módját
-
 1. Hálózati címtárszolgáltatást telepít, konfigurál és üzemeltet; felhasználókat és csoportokat hoz létre, jelszókezelést végez
-
-1. Hálózati csoportházirendet tervez meg és alkalmaz
 
 1. Hálózati fájl- és nyomtató szolgáltatást telepít és konfigurál, beálltja a megosztásokat
 
